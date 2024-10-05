@@ -1,0 +1,83 @@
+Lay's: 6
+Doritos: 6
+Pringles: 5
+Cheetos: 5
+Ritz: 6
+Kellogg's: 7
+General Mills: 8
+Post: 6
+Quaker: 7
+Cheerios: 8
+Land O'Lakes: 5
+DairyPure: 4
+Chobani: 8
+Yoplait: 7
+Horizon Organic: 9
+Coca-Cola: 5
+Pepsi: 6
+Gatorade: 5
+Tropicana: 6
+Lipton: 7
+Stouffer's: 5
+Birds Eye: 7
+Marie Callender's: 5
+Hot Pockets: 4
+Totino's: 4
+Heinz: 6
+Hellmann's: 6
+French's: 6
+Tabasco: 7
+Frank's RedHot: 6
+Pillsbury: 5
+Betty Crocker: 6
+Duncan Hines: 5
+McCormick: 8
+Jell-O: 5
+Wonder Bread: 4
+Pepperidge Farm: 6
+Arnold: 6
+Nature's Own: 7
+King's Hawaiian: 5
+Barilla: 8
+De Cecco: 7
+Ronzoni: 6
+Mueller's: 5
+Buitoni: 7
+Campbell's: 6
+Del Monte: 7
+Progresso: 6
+Bush's: 6
+Goya: 5
+Clorox: 6
+Tide: 5
+Lysol: 5
+Dawn: 6
+Mr. Clean: 5
+Seventh Generation: 9
+Ecover: 9
+Method: 9
+Patagonia Provisions: 9
+Nature's Path: 9
+Alter Eco: 9
+Dr. Bronner's: 9
+Beyond Meat: 9
+Amy's Kitchen: 9
+Ben & Jerry's: 8
+Tom's of Maine: 8
+Burt's Bees: 8
+Annie's Homegrown: 8
+Newman's Own: 8
+Nestlé: 3
+Unilever: 4
+Tyson Foods: 3
+Mondelez International: 4
+Mars: 4
+Keurig Dr Pepper: 3
+Reckitt Benckiser: 4
+Johnson & Johnson: 4
+Kraft Heinz: 4
+Cargill: 3
+Dole: 4
+Palmolive: 3
+Colgate: 4
+Red Bull: 3
