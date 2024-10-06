@@ -10,4 +10,6 @@ The file Hack_the_Heights.ipynb contains all the functions in the program.
 There are two txt files: 1. brands.txt and 2. groceries.txt
 
 - groceries.txt contains an example grocery list that the user uploads which lists the brands separated by the price of the item.
-- brands.txt contains the entire list of brands which have sustainability scores which we use to check against the brands of the grocery lists. 
+- brands.txt contains the entire list of brands which have sustainability scores which we use to check against the brands of the grocery lists.
+
+There is also a folder that includes information and requirements to set up flask and a web interface for the program. This flask set up requires a virtual environment venv.  
